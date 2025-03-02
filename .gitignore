@@ -16,3 +16,6 @@ __pycache__/
 # Documentos
 *.docx
 *.doc
+
+# Hojas de cálculo
+*.xlsx
