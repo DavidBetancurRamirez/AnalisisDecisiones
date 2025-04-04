@@ -21,3 +21,8 @@ python -m venv andec_env
 ```
 pip install -r requirements.txt
 ```
+
+# Actualizar archivo librerias
+```
+pip freeze > requirements.txt
+```
